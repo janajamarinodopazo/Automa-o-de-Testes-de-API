@@ -6,10 +6,13 @@
 		"_exporter_id": "4067931"
 	},
 	"item": [
-		{
-            "name": "Excluir usuário",
-            "event": [
-                {
+            {
+                "name": "Autenticação",
+                "item": [
+                    {
+                        "name": "Excluir usuário",
+                        "event": [
+                            {
                     "listen": "test",
                     "script": {
                         "exec": [
