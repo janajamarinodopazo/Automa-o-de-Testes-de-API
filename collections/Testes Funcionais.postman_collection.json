@@ -1,7 +1,7 @@
 {
-	"info": {
-		"_postman_id": "202120dd-9b62-4723-b806-50b6bf2ba445",
-		"name": "Testes Funcionais",
+    "info": {
+		"_postman_id": "0cab2803-3428-460e-bbd6-3f4e327231e8",
+		"name": "performance-tests-excluir-usuarion",
 		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json",
 		"_exporter_id": "4067931"
 	},

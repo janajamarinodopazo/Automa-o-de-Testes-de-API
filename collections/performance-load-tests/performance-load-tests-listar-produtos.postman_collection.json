@@ -1,10 +1,10 @@
 {
-	"info": {
-		"_postman_id": "0cab2803-3428-460e-bbd6-3f4e327231e8",
-		"name": "performance-tests-excluir-usuarion",
-		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json",
-		"_exporter_id": "4067931"
-	},
+    "info": {
+    "_postman_id": "0cab2803-3428-460e-bbd6-3f4e327231e8",
+    "name": "performance-tests-excluir-usuarion",
+    "schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json",
+    "_exporter_id": "4067931"
+},
 	"item": [
 		{
 			"name": "Listar Produtos",
